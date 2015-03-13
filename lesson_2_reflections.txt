@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git init creates new subdirectory named .git that contains necessary repository files. At this point, nothing in project is tracket yet.
+
+How is staging area different from the working area and the repository? What value do you think it offers?
+Staging area is used for tracking files which will be included in our next commit. It offers flexibility in choosing which files will be included in future commit.
