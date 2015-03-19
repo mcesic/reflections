@@ -9,3 +9,6 @@ Clone command copies contents of a repository to a local machine. Fork is simila
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 We can merge files and solve conflicts.
+
+How would you collaborate without using Git or Github? What would be easier, and what would be harder?
+Git has a steep learning curve, but when learned properly it speeds up and eases collaboration between people.
