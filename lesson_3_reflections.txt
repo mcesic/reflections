@@ -6,3 +6,6 @@ In case someone else is also working on a project, conflicts in source code coul
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Clone command copies contents of a repository to a local machine. Fork is similar to clone, with difference that it works on Github server. Branch is basically a group of commits logically separated from other branches.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+We can merge files and solve conflicts.
